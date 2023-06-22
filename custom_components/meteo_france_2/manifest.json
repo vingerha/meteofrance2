@@ -1,0 +1,10 @@
+{
+  "domain": "meteo_france_2",
+  "name": "Meteo France",
+  "codeowners": ["@vingerha"],
+  "config_flow": true,
+  "documentation": "",
+  "iot_class": "cloud_polling",
+  "loggers": ["meteofrance_api"],
+  "requirements": ["meteofrance-api==1.2.0"]
+}

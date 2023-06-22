@@ -1,0 +1,8 @@
+{
+  "name": "meteo_france_2",
+  "country": "FR",
+  "domains": ["meteo_france_2"],
+  "render_readme": true,
+  "documentation": "https://github.com/vingerha/meteo_france_2",
+  "homeassistant": "0.99.0"
+}

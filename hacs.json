@@ -1,7 +1,7 @@
 {
   "name": "meteofrance2",
   "country": "FR",
-  "domains": ["meteofrance2"],
+  "domains": ["meteo_france_2"],
   "render_readme": true,
   "documentation": "https://github.com/vingerha/meteofrance2",
   "homeassistant": "0"

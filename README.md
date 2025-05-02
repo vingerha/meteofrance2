@@ -4,5 +4,6 @@
 Copy from HA Meteo France, aiming to improve the integration
 
 Installation: use HACS and add this as a custom rep. 
-No further doc or support as this repository is meant to be temporary awaiting a fix in the HA core integration 
+
+**No further support or documentation** is provided as this repository is meant to be temporary awaiting a fix in the HA core integration 
 

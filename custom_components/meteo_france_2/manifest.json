@@ -1,5 +1,5 @@
 {
-  "domain": "meteo_france",
+  "domain": "meteo_france_2",
   "name": "M\u00e9t\u00e9o-France-2",
   "codeowners": ["@vingerha"],
   "config_flow": true,

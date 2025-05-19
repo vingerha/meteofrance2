@@ -21,7 +21,7 @@ from homeassistant.components.weather import (
 )
 from homeassistant.const import Platform
 
-DOMAIN = "meteo_france_2"
+DOMAIN = "meteo_france"
 PLATFORMS = [Platform.SENSOR, Platform.WEATHER]
 COORDINATOR_FORECAST = "coordinator_forecast"
 COORDINATOR_RAIN = "coordinator_rain"
